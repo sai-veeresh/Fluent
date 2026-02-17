@@ -1,0 +1,7 @@
+This folder contain the the simulation of the external aerodynamics of X43 
+1. Free stream pressure: 1400Pa
+2. free stream temperature: 226K
+3. Mach number: 7
+I simulated at 30Km above the ground and tested with two different AOAs of 0 and 2
+I was able to successfully converge in both cases
+I observed that at AOA 2 degrees
